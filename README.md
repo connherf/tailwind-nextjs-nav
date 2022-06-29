@@ -1,5 +1,7 @@
 # This is a simplified version of the tailwindcss nav
 
+Example site: [https://tailwind-nextjs-nav.vercel.app/](https://tailwind-nextjs-nav.vercel.app/)
+
 This is just taken from the "Centred with bottom border" header from [here](https://tailwindui.com/components/marketing/elements/headers), but simplified for use on smaller sites.
 
 I found myself reusing this menu quite a bit but only needing the skimmed down version. (Though I do like the original).
